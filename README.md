@@ -17,7 +17,7 @@
  
 </p>
 
-[![Advanced Provider Tutorial - Part 1: Project Setup & Authentication Flow](https://raw.githubusercontent.com/sagarshende23/shared_preference_flutter/master/Subscribe.png)](https://www.youtube.com/channel/UCEW4YMELtVeLjcpAzevNabg?sub_confirmation=1)
+[![Youtube](https://raw.githubusercontent.com/sagarshende23/shared_preference_flutter/master/Subscribe.png)](https://www.youtube.com/channel/UCEW4YMELtVeLjcpAzevNabg?sub_confirmation=1)
 
 
 
