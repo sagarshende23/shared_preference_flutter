@@ -32,6 +32,9 @@ SHared Preferences FLutter Tutorial:- https://alltechsavvy.com/shared-preference
 ## 🖥 Flutter Tutorial
 All Flutter Tutorials plus additional Code and shorter posts can be found on the [Official AllTechSavvy website](https://www.alltechsavvy.com/). 
 
+## YouTube Tutorial
+Watch How to Stored Data in Flutter => https://youtu.be/TdlTXINB-ac
+
 ## ⚙️ Built with Amazing Tools
 * [Flutter](https://flutter.dev/) - Beautiful native apps in record time.
 * [Android Studio](https://developer.android.com/studio/index.html/) - Tools for building Awesome apps on every type of Android device.
